@@ -1,0 +1,24 @@
+{
+  "name": "reactctpagseguro",
+  "version": "1.0.0",
+  "description": "Formulário com funcionalidades do Checkout Transparente do Pag Seguro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipggs/React-CheckoutTransparente-PagSeguro.git"
+  },
+  "keywords": [
+    "PagSeguro",
+    "Checkout",
+    "Transparente"
+  ],
+  "author": "Felipe Siqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flipggs/React-CheckoutTransparente-PagSeguro/issues"
+  },
+  "homepage": "https://github.com/flipggs/React-CheckoutTransparente-PagSeguro#readme"
+}
